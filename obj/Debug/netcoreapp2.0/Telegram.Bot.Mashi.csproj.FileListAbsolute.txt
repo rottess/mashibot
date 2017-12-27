@@ -1,0 +1,11 @@
+C:\Users\Nhan Tran\Desktop\telegram.bot.examples-master\Telegram.Bot.Examples.DotNetCoreWebHook\bin\Debug\netcoreapp2.0\Telegram.Bot.Mashi.deps.json
+C:\Users\Nhan Tran\Desktop\telegram.bot.examples-master\Telegram.Bot.Examples.DotNetCoreWebHook\bin\Debug\netcoreapp2.0\Telegram.Bot.Mashi.runtimeconfig.json
+C:\Users\Nhan Tran\Desktop\telegram.bot.examples-master\Telegram.Bot.Examples.DotNetCoreWebHook\bin\Debug\netcoreapp2.0\Telegram.Bot.Mashi.runtimeconfig.dev.json
+C:\Users\Nhan Tran\Desktop\telegram.bot.examples-master\Telegram.Bot.Examples.DotNetCoreWebHook\bin\Debug\netcoreapp2.0\Telegram.Bot.Mashi.dll
+C:\Users\Nhan Tran\Desktop\telegram.bot.examples-master\Telegram.Bot.Examples.DotNetCoreWebHook\bin\Debug\netcoreapp2.0\Telegram.Bot.Mashi.pdb
+C:\Users\Nhan Tran\Desktop\telegram.bot.examples-master\Telegram.Bot.Examples.DotNetCoreWebHook\obj\Debug\netcoreapp2.0\Telegram.Bot.Mashi.csprojResolveAssemblyReference.cache
+C:\Users\Nhan Tran\Desktop\telegram.bot.examples-master\Telegram.Bot.Examples.DotNetCoreWebHook\obj\Debug\netcoreapp2.0\Telegram.Bot.Mashi.csproj.CoreCompileInputs.cache
+C:\Users\Nhan Tran\Desktop\telegram.bot.examples-master\Telegram.Bot.Examples.DotNetCoreWebHook\obj\Debug\netcoreapp2.0\Telegram.Bot.Mashi.AssemblyInfoInputs.cache
+C:\Users\Nhan Tran\Desktop\telegram.bot.examples-master\Telegram.Bot.Examples.DotNetCoreWebHook\obj\Debug\netcoreapp2.0\Telegram.Bot.Mashi.AssemblyInfo.cs
+C:\Users\Nhan Tran\Desktop\telegram.bot.examples-master\Telegram.Bot.Examples.DotNetCoreWebHook\obj\Debug\netcoreapp2.0\Telegram.Bot.Mashi.dll
+C:\Users\Nhan Tran\Desktop\telegram.bot.examples-master\Telegram.Bot.Examples.DotNetCoreWebHook\obj\Debug\netcoreapp2.0\Telegram.Bot.Mashi.pdb
